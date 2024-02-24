@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GitOps,linux sysadmin argoCD and Owasp**
 
-- 📝 I regularly write articles on [@rinkush45](@rinkush45)
+- 📝 I regularly write articles on [https://medium.com/@rinkush45](https://medium.com/@rinkush45)
 
 - 💬 Ask me about **linux,python,docker,kubernetes,CI/CD,terraform,ansible,Git/Github and aws**
 
