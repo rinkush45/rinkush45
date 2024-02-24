@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rinku Sharma</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/rinkusharma_45" target="blank"><img src="https://img.shields.io/twitter/follow/rinkusharma_45?logo=twitter&style=for-the-badge" alt="rinkusharma_45" /></a> </p>
-
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **E-commerce website and personal portfolio website**
 
 - 🌱 I’m currently learning **GitOps,linux sysadmin argoCD and Owasp**
 
-- 📝 I regularly write articles on [https://medium.com/@rinkush45](https://medium.com/@rinkush45)
+- 📝 I regularly write articles on [@rinkush45](@rinkush45)
 
 - 💬 Ask me about **linux,python,docker,kubernetes,CI/CD,terraform,ansible,Git/Github and aws**
 
-- 📫 How to reach me **sharmarinku@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **sharmarinku@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
