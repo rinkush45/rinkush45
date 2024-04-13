@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rinku sharma</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinkush45" alt="rinkush45" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rinkusharma98" target="blank"><img src="https://img.shields.io/twitter/follow/rinkusharma98?logo=twitter&style=for-the-badge" alt="rinkusharma98" /></a> </p>
 
 - 🌱 I’m currently learning **Terraform, Python, DSA**
@@ -29,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkush45&show_icons=true&locale=en&layout=compact" alt="rinkush45" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkush45&" alt="rinkush45" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkush45&" alt="rinkush45" /></p>
