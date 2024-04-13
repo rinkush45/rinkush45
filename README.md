@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkush45&show_icons=true&locale=en&layout=compact" alt="rinkush45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkush45&" alt="rinkush45" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkush45&" alt="rinkush45" /></p>
