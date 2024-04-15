@@ -1,7 +1,10 @@
+<video width="320" height="240" controls>
+  <source src="https://github.com/rinkush45/rinkush45/blob/main/%40Rinku%20sharma.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h1 align="center">Hi 👋, I'm Rinku sharma</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img src="https://github.com/rinkush45/rinkush45.git/@Rinku sharma.mp4" width="500" height="600">
 
 <p align="left"> <a href="https://twitter.com/rinkusharma98" target="blank"><img src="https://img.shields.io/twitter/follow/rinkusharma98?logo=twitter&style=for-the-badge" alt="rinkusharma98" /></a> </p>
 
