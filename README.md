@@ -1,6 +1,7 @@
-<img  align="center src="@Rinku sharma.mp4" alt="rinkusharma98">rinkush45</image>
+
 <h1 align="center">Hi 👋, I'm Rinku sharma</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
+<img src="@Rinku sharma.mp4" alt="Girl in a jacket" width="500" height="600">
 
 <p align="left"> <a href="https://twitter.com/rinkusharma98" target="blank"><img src="https://img.shields.io/twitter/follow/rinkusharma98?logo=twitter&style=for-the-badge" alt="rinkusharma98" /></a> </p>
 
