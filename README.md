@@ -1,4 +1,4 @@
-<img src="https://github.com/rinkush45/rinkush45/blob/main/Capture.PNG"  width="500" height="600">
+<img align="center" src="https://github.com/rinkush45/rinkush45/blob/main/Capture.PNG" >
 
 <h1 align="center">Hi 👋, I'm Rinku sharma</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
