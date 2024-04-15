@@ -1,7 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="https://github.com/rinkush45/rinkush45/blob/main/%40Rinku%20sharma.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="https://github.com/rinkush45/rinkush45/blob/main/Capture.PNG"  width="500" height="600">
 
 <h1 align="center">Hi 👋, I'm Rinku sharma</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
