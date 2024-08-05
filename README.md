@@ -1,32 +1,126 @@
-<img align="center" src="https://github.com/rinkush45/rinkush45/blob/main/linkedinback.jpg" width="900" height="250">
+###
 
-<h1 align="center">Hi 👋, I'm Rinku sharma</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rinkush45" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@rinkush45" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://www.instagram.com/rinku._.45" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  
+  <a href="mailto:sharmarinku@outlook.in" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
+  </a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/rinkusharma98" target="blank"><img src="https://img.shields.io/twitter/follow/rinkusharma98?logo=twitter&style=for-the-badge" alt="rinkusharma98" /></a> </p>
+###
 
-- 🌱 I’m currently learning **Terraform, Python, DSA**
+<div align="center">
+  <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkush45&theme=dark&hide_border=false&border_radius=5&order=3"/>
+  <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
+</div>
 
-- 💬 Ask me about **Ansible, AWS, Terraform, Docker,Kubernetes, Linux, Python, Git/Github**
+<h1 align="center">hey there 👋</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 📫 How to reach me **sharmarinku@outlook.in**
+###
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left">👋 Hello! I'm Rinku Sharma, a passionate technology enthusiast currently pursuing a Bachelor of Technology degree.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rinkusharma98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinkusharma98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rinkush45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinkush45" height="30" width="40" /></a>
-<a href="https://fb.com/rinkusharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rinkusharma" height="30" width="40" /></a>
-<a href="https://instagram.com/rinku._.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinku._.45" height="30" width="40" /></a>
-<a href="https://medium.com/@rinkusharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rinkusharma" height="30" width="40" /></a>
-</p>
+🎓 Education:
+I am currently pursuing Bachelor of Technology (B.Tech) degree with a focus on coding at Jaipur engineering college.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+💡 Passion for Technology:
+I have always been deeply passionate about technology, and I'm particularly drawn to DEVOPS with AWS. During my studies, I've had the opportunity to ci/cd pipeline and automation, which has further fueled my enthusiasm for devops with aws
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkush45&show_icons=true&locale=en&layout=compact" alt="rinkush45" /></p>
+🚀 Skills:
+AWS | 
+Docker | 
+Kubernetes | 
+Jenkins | 
+Ansible | 
+Git/GitHub | 
+Owasp | 
+Python |  
+Istio-Service Mesh
+   
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkush45&" alt="rinkush45" /></p>
+As a current student, I recognize the importance of continuous learning and growth. I'm committed to staying updated with the latest industry trends and technologies, especially in DEVOPS with AWS.
+
+
+🌟 Future Goals:
+My goal is to SOFTWARE ENGINEER. I'm excited about the possibilities that lie ahead and the chance to make a positive impact through technology.
+
+Let's connect, learn from each other, and grow together. Feel free to send me a connection request or drop me a message—I'm looking forward to connecting with you!</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
+
+<h3 align="left">🎃 I Code in : </h3>
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  
+<h3 align="left">🛠 Software & Tools : </h3>
+
+
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/a76b4680-f3cc-4aa5-afe5-ccf5b8e82692" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+###
+
+###
+<h2 align="left">🔥My Stats :</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=rinkush45&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rinkush45&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkush45&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinkush45&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+###
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
+
+###
+
+---
+---
+---
