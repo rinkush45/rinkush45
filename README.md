@@ -22,7 +22,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkush45&theme=dark&hide_border=false&border_radius=5&order=3"/>
 </div>
 
-<h1 align="center">Welcome there 👋</h1>
+<h1 align="center">Welcome in here 👋</h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="left">👩‍💻  About Me</h3>
 
