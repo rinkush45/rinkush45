@@ -24,33 +24,19 @@
 
 ###
 
-<p align="left">👋 Hello! I'm Rinku Sharma, a passionate technology enthusiast currently pursuing a Bachelor of Technology degree.
+<p align="left">👋 I am a software engineer with a specialization in DevOps, cloud infrastructure, and automation, driven by a commitment to building efficient, scalable, and secure solutions. As I work towards completing my B.Tech in Computer Science at Jaipur Engineering College, I’ve gained valuable industry experience through roles at Quibble AI and Learn and Build, where I’ve developed a proven track record in optimizing processes and enhancing system performance.
 
-🎓 Education:
-I am currently pursuing Bachelor of Technology (B.Tech) degree with a focus on coding at Jaipur engineering college.
+Key Skills & Expertise:
+- Programming & Scripting: Python, JavaScript, Shell scripting
+- DevOps & Cloud Technologies: Ansible, Terraform, Jenkins, Docker, Kubernetes, AWS
+- Monitoring & Security: Prometheus, Grafana, ELK Stack, OWASP protocols for secure development
+- Frameworks & Databases: Node.js, MySQL, MongoDB; version control with Git/GitHub
+Professional Impact:
+At Quibble AI, I successfully integrated AI models into production, utilizing REST APIs and containerization to ensure smooth, scalable deployments. My focus on security—through OWASP protocols—led to a 50% reduction in vulnerabilities, while advanced monitoring setups improved incident response times by 30%. In my previous role at Learn and Build, I designed an automated CI/CD pipeline that accelerated deployment times by 80% and increased overall system reliability.
 
-💡 Passion for Technology:
-I have always been deeply passionate about technology, and I'm particularly drawn to DEVOPS with AWS. During my studies, I've had the opportunity to ci/cd pipeline and automation, which has further fueled my enthusiasm for devops with aws
+I’m passionate about leveraging cutting-edge DevOps practices and cloud technologies to solve complex challenges, enhance productivity, and drive growth. I approach every project with a collaborative, results-driven mindset and am continuously exploring new technologies to deepen my expertise.
 
-🚀 Skills:
-AWS | 
-Docker | 
-Kubernetes | 
-Jenkins | 
-Ansible | 
-Git/GitHub | 
-Owasp | 
-Python |  
-Istio-Service Mesh
-   
-
-As a current student, I recognize the importance of continuous learning and growth. I'm committed to staying updated with the latest industry trends and technologies, especially in DEVOPS with AWS.
-
-
-🌟 Future Goals:
-My goal is to SOFTWARE ENGINEER. I'm excited about the possibilities that lie ahead and the chance to make a positive impact through technology.
-
-Let's connect, learn from each other, and grow together. Feel free to send me a connection request or drop me a message—I'm looking forward to connecting with you!</p>
+Let’s connect if you’re interested in discussing cloud engineering, DevOps, or transformative software solutions!!</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
