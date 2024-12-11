@@ -34,8 +34,6 @@ Key Skills & Expertise:
 Professional Impact:
 At Quibble AI, I successfully integrated AI models into production, utilizing REST APIs and containerization to ensure smooth, scalable deployments. My focus on security—through OWASP protocols—led to a 50% reduction in vulnerabilities, while advanced monitoring setups improved incident response times by 30%. In my previous role at Learn and Build, I designed an automated CI/CD pipeline that accelerated deployment times by 80% and increased overall system reliability.
 
-I’m passionate about leveraging cutting-edge DevOps practices and cloud technologies to solve complex challenges, enhance productivity, and drive growth. I approach every project with a collaborative, results-driven mindset and am continuously exploring new technologies to deepen my expertise.
-
 Let’s connect if you’re interested in discussing cloud engineering, DevOps, or transformative software solutions!!</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -96,6 +94,4 @@ Let’s connect if you’re interested in discussing cloud engineering, DevOps, 
 
 ###
 
----
----
 ---
